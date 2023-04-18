@@ -1,0 +1,13 @@
+.App {
+  width: 1440px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  align-items: center;
+  margin-top: 0;
+  background-color: #fff;
+
+
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, .02);
+
+}

@@ -1,0 +1,25 @@
+.tabs-app {
+    margin: 30px 35px;
+    padding-top: 20px;
+    width: 220px;
+    height: 260px;
+    background: #FFFFFF;
+    border-radius: 8px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, .2);
+
+}
+
+.tabs-app p {
+    margin: 0.7em 22px 0.5em 0;
+
+    text-align: right;
+
+    font-family: 'Merienda';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+
+
+    color: #000000;
+}

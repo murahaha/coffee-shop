@@ -1,0 +1,25 @@
+.header-app {
+    margin-top: 0;
+    height: 40px;
+    margin-top: 30px;
+    margin-left: 148px;
+}
+
+.header-app button {
+    font-family: 'Merienda';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 20px;
+    color: #ffffff;
+    padding-right: 40px;
+    border: 0 solid white;
+    border-radius: 3px;
+    background-color: rgba(0, 0, 0, 0);
+    transition: color .2s linear;
+}
+
+.header-app button:hover {
+    color: #6f6d6d;
+    font-size: 14px;
+}
